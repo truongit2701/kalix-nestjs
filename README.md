@@ -1,7 +1,5 @@
 # nestjs-kalix
 
-> > > > > > > e0c881694ef9e8c9a0c656ad37980c0d6e8f6a53
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -80,3 +78,8 @@ Nest is [MIT licensed](LICENSE).
 
 > > > > > > > ae8484a (first commit)
 > > > > > > > e0c881694ef9e8c9a0c656ad37980c0d6e8f6a53
+> > > > > > > =======
+
+# kalix-nestjs
+
+> > > > > > > 6f6cf2915668a0cd8af0f4049c8cbb8209ab217f
