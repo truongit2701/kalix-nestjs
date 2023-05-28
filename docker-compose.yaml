@@ -1,6 +1,0 @@
-version: '3'
-
-services:
-  backend:
-    build: ./
-    container_name: nestjs_kalix_api
